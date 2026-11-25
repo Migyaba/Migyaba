@@ -23,8 +23,8 @@
 ### 🛠️ Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,php,laravel,ts,js,react,nextjs,nodejs,tailwind,java&perline=12" alt="Langages et frameworks"><br>
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite,redis,rabbitmq,docker,nginx,kubernetes,git,linux,wordpress&perline=12" alt="Outils">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,php,laravel,react,nextjs" alt="Langages et frameworks"><br>
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,redis,docker,nginx,kubernetes,git,wordpress&perline=12" alt="Outils">
 </p>
 
 ---
